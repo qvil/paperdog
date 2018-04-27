@@ -1,1 +1,1 @@
-import { default as Module } from "./Module";
+import { default as Loading } from "./Loading";

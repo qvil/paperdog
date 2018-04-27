@@ -15,7 +15,8 @@
           "src": "./src",
           "components": "./src/components",
           "lib": "./src/lib",
-          "config": "./config"
+          "config": "./config",
+          "img": "./img"
         }
       }
     ]
